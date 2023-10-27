@@ -33,7 +33,9 @@ Open new terminal on kafka stored directry and run below commands.
 	.\bin\windows\kafka-console-consumer.bat --topic topic_demo --from-beginning --bootstrap-server localhost:9092
 	hello world
 	topic demo
- <pre>
-### Note :<i>To working with windows terminal use '\' backward slash <br>
+</pre>	
+	 
+### Note : 
+<p>To working with windows terminal use '\' backward slash <br>
  To work with gibash terminal use '/' forward slash for directory.
- </i>
+ </p>
