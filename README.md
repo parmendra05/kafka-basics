@@ -9,11 +9,12 @@ cd kafka_2.13-3.6.0
 </pre>
 ## STEP 2: START THE KAFKA ENVIRONMENT
 ### Start the ZooKeeper service
-Open new terminal on kafka stored directry
+Open new terminal on kafka stored directry and run below commands.
 <pre>
 	.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 </pre>
 ### Start the Kafka broker service
+Open new terminal on kafka stored directry and run below commands.
 <pre>
 	.\bin\windows\kafka-server-start.bat .\config\server.properties
 </pre>
@@ -33,6 +34,6 @@ Open new terminal on kafka stored directry
 	hello world
 	topic demo
  <pre>
- <i>To working with windows terminal use '\' backward slash <br>
+### Note :<i>To working with windows terminal use '\' backward slash <br>
  To work with gibash terminal use '/' forward slash for directory.
  </i>
