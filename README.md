@@ -30,7 +30,7 @@ Open new terminal on kafka stored directry and run below commands.
 </pre>
 ## STEP 5:  READ THE EVENTS
 <pre>
-	.\bin\windows\kafka-console-consumer.bat --topic topic_demo --from-beginning --bootstrap-server localhost:9092
+	.\bin\windows\kafka-console-consumer.bat --topic my-topic --from-beginning --bootstrap-server localhost:9092
 	hello world
 	topic demo
 </pre>	
