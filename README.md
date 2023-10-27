@@ -37,5 +37,5 @@ Open new terminal on kafka stored directry and run below commands.
 	 
 ### Note : 
 <p>To working with windows terminal use '\' backward slash <br>
- To work with gibash terminal use '/' forward slash for directory.
+ To work with gitbash terminal use '/' forward slash for directory.
  </p>
